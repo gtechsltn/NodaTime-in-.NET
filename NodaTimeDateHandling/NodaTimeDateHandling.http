@@ -1,0 +1,6 @@
+@NodaTimeDateHandling_HostAddress = http://localhost:5019
+
+GET {{NodaTimeDateHandling_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
